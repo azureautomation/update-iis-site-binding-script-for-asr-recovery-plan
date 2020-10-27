@@ -1,0 +1,20 @@
+{
+    "Author": "Samhita Kulkarni[MSFT]",
+    "ContentSize": 1653,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/update-iis-site-binding-script-for-asr-recovery-plan/master/IIS-Update-SiteBindings.ps1",
+    "DownloadCount": 469,
+    "Id": "Update-IIS-binding-script-df2b0121",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 536,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Gets all websites hosted on given IIS server. If Bindings of site are IPAddress specific, script replaces old IPAddress binding with new IPAddress of VM.\u00a0If Bindings of site are generic, script does not replace it.Online peer support\u00a0For online peer support, join The Officia",
+    "Title": "Update IIS site binding script for ASR Recovery Plan",
+    "UpdatedDate": "2017-3-24T00:00:00",
+    "Url": "https://github.com/azureautomation/update-iis-site-binding-script-for-asr-recovery-plan",
+    "UserTags": "Azure Site Recovery"
+}
